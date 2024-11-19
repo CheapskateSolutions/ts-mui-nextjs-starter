@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "mode": "light",
+    "mode": "dark",
     "primaryColor": "#e31add",
     "secondaryColor": "#b50000"
 }
